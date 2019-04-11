@@ -5,9 +5,8 @@
 * Требования к выпускному проекту: [тут](https://drive.google.com/open?id=1NsSIElGCQ6BvFFpnPRSQdisfcBkq-W0WqcLrTM7wl2I).
 * Основные репозитории: [здесь](https://github.com/Maximumstart-initial-course).
 * Репозиторий с домашними заданиями: [там](https://github.com/MaximumStart/initial-course).
-
+* [Профиль на htmlacademy](https://htmlacademy.ru/profile/id1061137) 
 ---
-
 Не удаляй и ничего не меняй в файлах и папках кроме __homeworks__ и __personal__.
 
 Если есть необходимость размещать какие-то свои личные файлы, то в корне локального репозитория есть специальная папка `personal`, которая не индексируется и не прилетает на проверку.
