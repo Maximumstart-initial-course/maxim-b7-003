@@ -1,0 +1,54 @@
+/*
+	Дополните файл своим CSS-кодом :)
+*/
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+* {
+	font-family: sans-serif;
+}
+
+.article__more {
+	text-decoration: none;
+	color: black;
+
+}
+.article__more:hover {
+	border-bottom: 1px dotted black;
+}
+
+.article {
+	line-height: 27px;
+	margin: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-color: #ccc;
+	border: 1px dashed black;
+	max-height: 185px;
+}
+
+.header {
+	text-align: center;
+	background-color: #e5e5e5;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	min-height: 150px;
+}
+.article__link {
+	color: black;
+}
+
+.footer {
+	background-color: #e5e5e5;
+	padding: 15px;
+	border-top: 1px solid black;
+}
